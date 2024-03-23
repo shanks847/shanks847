@@ -21,8 +21,6 @@
 📫 **Reach me at:**
 - Email: shankar.ramharack@gmail.com
 
-😄 **Pronouns:** He/Him
-
 ⚡ **Fun fact:**
 - Notioner
 - Loves sports: martial arts, running, climbing random trees
@@ -31,8 +29,8 @@
 PSCAD, EMTP-RV, MATLAB Simulink, Julia, Python, React, Tailwind CSS, HiGHS, PyPSA, QGIS, EasyPower, LaTeX
 
 #### Research interests:
-- Inverter based technologies
-- Open source e-mobility
+- Inverter-based technologies
+- Open-source e-mobility
 - Load forecasting
 - Synthetic Grid Generation and Energy Planning
 - Distributed Energy Resource Planning
