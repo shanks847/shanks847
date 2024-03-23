@@ -12,10 +12,10 @@
 
 👯 **Looking to collaborate on:**
 - Open Source Energy Modelling Research
-- DER Research with focus on IBRs
+- DER Research with a focus on IBRs
 
 💬 **Ask me about:**
-- Power System Analysis
+- Open Source Power System Analysis
 - Protective Relaying
 
 📫 **Reach me at:**
@@ -28,57 +28,14 @@
 - Loves sports: martial arts, running, climbing random trees
 
 #### Experience with:
-🔌 PSCAD, EMTP-RV, MATLAB Simulink, Julia, Python, React, Tailwind CSS, HiGHS, PyPSA, QGIS, EasyPower, LaTeX
-
-#### Co-founder of Metricity Limited:
-- Developing software solutions for industrial operations
-- Energy consulting
-- Power system studies
+PSCAD, EMTP-RV, MATLAB Simulink, Julia, Python, React, Tailwind CSS, HiGHS, PyPSA, QGIS, EasyPower, LaTeX
 
 #### Research interests:
 - Inverter based technologies
 - Open source e-mobility
-- Load forecasting using bineural ordinary differential equations
+- Load forecasting
+- Synthetic Grid Generation and Energy Planning
+- Distributed Energy Resource Planning
+- Grid Automation
+- Power System Protection and Control
 
-<style>
-    /* Styling Markdown */
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f5f5f5;
-        margin: 0;
-        padding: 0;
-    }
-
-    h3 {
-        color: #333;
-    }
-
-    ul {
-        list-style-type: none;
-        padding: 0;
-    }
-
-    ul li {
-        margin-bottom: 5px;
-    }
-
-    ul li::before {
-        content: "🔹";
-        margin-right: 5px;
-    }
-
-    strong {
-        color: #333;
-    }
-
-    a {
-        color: #007bff;
-        text-decoration: none;
-    }
-
-    a:hover {
-        text-decoration: underline;
-    }
-
-    /* End of Styling Markdown */
-</style>
