@@ -2,7 +2,7 @@
 
 **Electrical Engineer by Day, Data Scientist by Night**
 
-🔭 **Working on:**
+:construction: **Working on:**
 - Using Synthetic Grids in Energy Planning
 - Electric Vehicle Infrastructure Placement Optimization
 
@@ -10,11 +10,11 @@
 - MERN for Webapps
 - PyPSA for Energy Modelling
 
-👯 **Looking to collaborate on:**
+ :globe_with_meridians: **Looking to collaborate on:**
 - Open Source Energy Modelling Research
 - DER Research with a focus on IBRs
 
-💬 **Ask me about:**
+:mortar_board: **Ask me about:**
 - Open Source Power System Analysis
 - Protective Relaying
 
