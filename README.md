@@ -4,7 +4,7 @@
 
 :construction: **Working on:**
 - Using Synthetic Grids in Energy Planning
-- Electric Vehicle Infrastructure Placement Optimization
+- Digital Twin Technology in Simulation of Power System Components
 
 🌱 **Learning:**
 - MERN for Webapps
