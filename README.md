@@ -7,8 +7,9 @@
 - Digital Twin Technology in Simulation of Power System Components
 
 🌱 **Learning:**
-- MERN for Webapps
-- PyPSA for Energy Modelling
+- Modelling Electric Machines and Drives
+- Arc Flash Calculation and Simulation
+- PyPSA and NREL Sienna for Energy Modelling
 
  :globe_with_meridians: **Looking to collaborate on:**
 - Open Source Energy Modelling Research
@@ -23,10 +24,19 @@
 
 ⚡ **Fun fact:**
 - Notioner
-- Loves sports: martial arts, running, climbing random trees
+- Loves sports: running, rowing and climbing
+- Favourite food is Callaloo
 
 #### Experience with:
-PSCAD, EMTP-RV, MATLAB Simulink, Julia, Python, React, Tailwind CSS, HiGHS, PyPSA, QGIS, EasyPower, LaTeX
+PSCAD, EMTP-RV, SKM Power Tools, MATLAB Simulink, HiGHS, PyPSA, QGIS, EasyPower
+
+#### Programming languages I work in
+- Julia
+- Python
+- MATLAB
+- C++
+- LaTeX
+- C (rarely)
 
 #### Research interests:
 - Inverter-based technologies
