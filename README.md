@@ -36,6 +36,7 @@ PSCAD, EMTP-RV, SKM Power Tools, MATLAB Simulink, HiGHS, PyPSA, QGIS, EasyPower
 - MATLAB
 - C++
 - LaTeX
+
 R and C as well, but rarely.
 
 #### Research interests:
