@@ -20,7 +20,7 @@
 - Protective Relaying
 
 📫 **Reach me at:**
-- Email: shankar.ramharack@gmail.com
+- Email: sramharack@ieee.org
 
 ⚡ **Fun fact:**
 - Notioner
