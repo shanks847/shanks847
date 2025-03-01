@@ -3,17 +3,18 @@
 **Electrical Engineer by Day, Data Scientist by Night**
 
 :construction: **Working on:**
-- Using Synthetic Grids in Energy Planning
-- Digital Twin Technology in Simulation of Power System Components
-
+- Safety Constrained Control of Systems with High-IBR Penetration
+- Robust Classification of Faults via PMU Data
+  
 🌱 **Learning:**
 - Modelling Electric Machines and Drives
 - Arc Flash Calculation and Simulation
-- PyPSA and NREL Sienna for Energy Modelling
+- PyPSA for Energy Planning
 
  :globe_with_meridians: **Looking to collaborate on:**
-- Open Source Energy Modelling Research
-- DER Research with a focus on IBRs
+- Augmented Synchronization
+- Safety Constrained Control
+- PSRC.jl - A library for open-source power system protection
 
 :mortar_board: **Ask me about:**
 - Open Source Power System Analysis
